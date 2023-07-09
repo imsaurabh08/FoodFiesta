@@ -23,6 +23,6 @@
     "stripe": "^12.11.0"
   },
   "engines": {
-    "node": ">=NODE_JS_VERSION"
+    "node": ">=14.20.1"
 }
 }
