@@ -29,7 +29,7 @@ setDataFilter(()=>{
        <div className="my-5"  >
         <h2 className='font-bold text-2xl text-slate-800 mb-4 my-2'>{heading}</h2>
         
-        <div className=" flex gap-4 justify-center">
+        <div className=" flex flex-wrap gap-4 justify-center">
           {
        
        categoryList[0] && categoryList.map((el)=>{
