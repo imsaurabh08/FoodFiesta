@@ -44,7 +44,7 @@ const Header = () => {
         </Link>
 
         <div className="flex items-center gap-4 md:gap-7">
-          <nav className='flex gap-5 md:gap-6 text-base md:text-lg'>
+          <nav className='flex gap-3 md:gap-6 text-base md:text-lg'>
             <Link to={""}>Home</Link>
             <Link to={"menu/648feb1f3fcaec18c312de65"}>Menu</Link>
             <Link to={"about"}>About</Link>
