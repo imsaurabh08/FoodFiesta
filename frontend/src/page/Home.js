@@ -50,7 +50,7 @@ const Home = () => {
   }
 
   return (
-    <div className='p-2 md:p-4'>
+    <div className='p-2 overflow-x-hidden md:p-4'>
 
       <div className='md:flex gap-2 py-2'>
         <div className="md:w-1/2 py-4">
